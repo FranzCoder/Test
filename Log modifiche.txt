@@ -1,6 +1,6 @@
 - Creato Branch-Luca
 - Creato Branch-Franz
-- Modifica terzo utente su master
+- Modifica terzo utente e merge su master
 - Modifica su Branch-Franz, rebase su master e merge
 A questo punto git log restituisce il log corretto con tutti i merge
 

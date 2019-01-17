@@ -1,0 +1,8 @@
+- Creato Branch-Luca
+- Creato Branch-Franz
+- Modifica terzo utente su master
+- Modifica su Branch-Franz, rebase su master e merge
+A questo punto git log restituisce il log corretto con tutti i merge
+
+- Modifica su Branch-Luca e merge su master
+git log non presenta il merge del Branch-Luca e le modifiche di Luca sono andate perse in in SourceTree il merge viene visualizzato

@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Modifica di un terzo utente
 =======
-Questa è la mia modifica
+Questa ï¿½ la mia modifica
 >>>>>>> Mia modifica
 modifica 1
+Modifica 2

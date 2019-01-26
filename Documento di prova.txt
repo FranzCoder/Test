@@ -1,7 +1,11 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 Modifica di un terzo utente
+Testo finto
 =======
-Questa � la mia modifica
+Questa è la mia modifica
+1
+2
+3
 >>>>>>> Mia modifica
 modifica 1
 Modifica 2

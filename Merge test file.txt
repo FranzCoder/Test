@@ -1,3 +1,4 @@
+﻿File modificato nekl branch SmartGitTest
 <<<<<<< HEAD
 ﻿123
 

@@ -1,4 +1,5 @@
-﻿File modificato nekl branch SmartGitTest
+﻿Modifica per testare Araxis integration
+File modificato nekl branch SmartGitTest
 <<<<<<< HEAD
 ﻿123
 

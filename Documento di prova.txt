@@ -1,4 +1,5 @@
-﻿<<<<<<< HEAD
+﻿Stash test
+<<<<<<< HEAD
 Modifica di un terzo utente
 Testo finto
 =======
